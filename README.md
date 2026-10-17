@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://0trebeh.github.io/Pages/"><img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://otredev.github.io/"><img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 <img src="https://img.shields.io/badge/Orlando%2C%20FL-1f2937?style=for-the-badge&logo=googlemaps&logoColor=22D3EE" alt="Orlando, FL"/>
 <img src="https://img.shields.io/badge/Open%20to%20work-16a34a?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Open to work"/>
 
@@ -122,7 +122,7 @@ const heberto = {
 I'm open to **full-time roles, contract work and freelance projects** — especially where automation, data or a full stack product can make a measurable difference.
 
 <a href="https://www.linkedin.com/in/heberto-urribarri-2223601a8/"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://0trebeh.github.io/Pages/"><img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
+<a href="https://otredev.github.io/"><img src="https://img.shields.io/badge/Website-EA4335?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" width="100%" alt=""/>
 
